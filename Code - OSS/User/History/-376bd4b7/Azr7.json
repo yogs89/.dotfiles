@@ -1,0 +1,10 @@
+{
+    "window.menuBarVisibility": "toggle",
+    "workbench.activityBar.visible": false,
+    "explorer.confirmDelete": false,
+    "glassit.alpha": 235,
+    "workbench.startupEditor": "none",
+    "emmet.includeLanguages": {
+        "javascript": "html"
+    }
+}

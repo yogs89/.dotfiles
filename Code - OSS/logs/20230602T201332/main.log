@@ -1,0 +1,13 @@
+2023-06-02 20:13:32.533 [info] update#ctor - updates are disabled as there is no update URL
+2023-06-02 20:14:15.645 [warning] [UtilityProcessWorker]: createWorker() found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+2023-06-02 20:16:17.342 [info] Extension host with pid 4650 exited with code: 139, signal: unknown.
+2023-06-02 20:16:17.368 [error] [UtilityProcess id: 1, type: extensionHost, pid: 4650]: crashed with code 139 and reason 'crashed'
+2023-06-02 20:17:32.459 [warning] [UtilityProcessWorker]: createWorker() found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+2023-06-02 20:18:55.095 [warning] [UtilityProcessWorker]: createWorker() found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+2023-06-02 20:18:55.112 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2023-06-02 20:18:55.113 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 5256]: crashed with code 15 and reason 'killed'
+2023-06-02 20:38:02.863 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2023-06-02 20:38:02.863 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 5169]: crashed with code 15 and reason 'killed'
+2023-06-02 20:38:02.868 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2023-06-02 20:38:02.868 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 5315]: crashed with code 15 and reason 'killed'
+2023-06-02 20:38:02.869 [info] Extension host with pid 5033 exited with code: 0, signal: unknown.

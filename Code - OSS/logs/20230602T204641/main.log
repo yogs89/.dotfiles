@@ -1,0 +1,11 @@
+2023-06-02 20:46:42.097 [info] update#ctor - updates are disabled as there is no update URL
+2023-06-02 20:50:41.161 [warning] [UtilityProcessWorker]: createWorker() found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+2023-06-02 20:50:41.171 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2023-06-02 20:50:41.171 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 8307]: crashed with code 15 and reason 'killed'
+2023-06-02 20:52:13.477 [warning] [UtilityProcessWorker]: createWorker() found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+2023-06-02 20:52:13.486 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2023-06-02 20:52:13.486 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 8600]: crashed with code 15 and reason 'killed'
+2023-06-02 20:53:39.594 [warning] [UtilityProcessWorker]: createWorker() found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+2023-06-02 20:53:39.602 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2023-06-02 20:53:39.602 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 9012]: crashed with code 15 and reason 'killed'
+2023-06-02 21:27:56.467 [info] Extension host with pid 8308 exited with code: 0, signal: unknown.

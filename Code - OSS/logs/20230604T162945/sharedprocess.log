@@ -1,0 +1,35 @@
+2023-06-04 16:30:49.237 [info] Getting Manifest... abusaidm.html-snippets
+2023-06-04 16:30:50.258 [info] Installing extension: abusaidm.html-snippets
+2023-06-04 16:30:51.924 [info] Extension signature verification is not done: abusaidm.html-snippets
+2023-06-04 16:30:51.947 [info] Extracted extension to /home/agoy/.vscode-oss/extensions/.422c9d91-00fe-4c23-a504-4eaf3b5773b8: abusaidm.html-snippets
+2023-06-04 16:30:51.949 [info] Renamed to /home/agoy/.vscode-oss/extensions/abusaidm.html-snippets-0.2.1-universal
+2023-06-04 16:30:51.951 [info] Extracting extension completed. abusaidm.html-snippets
+2023-06-04 16:30:51.962 [info] Extension installed successfully: abusaidm.html-snippets
+2023-06-04 16:30:53.214 [info] Getting Manifest... ecmel.vscode-html-css
+2023-06-04 16:30:53.556 [info] Installing extension: ecmel.vscode-html-css
+2023-06-04 16:30:55.208 [info] Extension signature verification is not done: ecmel.vscode-html-css
+2023-06-04 16:30:55.250 [info] Extracted extension to /home/agoy/.vscode-oss/extensions/.87b355b3-e60d-4873-ab38-bf0043652c6d: ecmel.vscode-html-css
+2023-06-04 16:30:55.254 [info] Renamed to /home/agoy/.vscode-oss/extensions/ecmel.vscode-html-css-1.13.1-universal
+2023-06-04 16:30:55.257 [info] Extracting extension completed. ecmel.vscode-html-css
+2023-06-04 16:30:55.269 [info] Extension installed successfully: ecmel.vscode-html-css
+2023-06-04 16:31:30.949 [info] Getting Manifest... xabikos.javascriptsnippets
+2023-06-04 16:31:32.286 [info] Installing extension: xabikos.javascriptsnippets
+2023-06-04 16:31:33.851 [info] Extension signature verification is not done: xabikos.javascriptsnippets
+2023-06-04 16:31:33.862 [info] Extracted extension to /home/agoy/.vscode-oss/extensions/.39a057b8-5e75-42d5-8f80-47e251ab5c4d: xabikos.javascriptsnippets
+2023-06-04 16:31:33.865 [info] Renamed to /home/agoy/.vscode-oss/extensions/xabikos.javascriptsnippets-1.8.0-universal
+2023-06-04 16:31:33.867 [info] Extracting extension completed. xabikos.javascriptsnippets
+2023-06-04 16:31:33.880 [info] Extension installed successfully: xabikos.javascriptsnippets
+2023-06-04 20:11:30.642 [info] Getting Manifest... ritwickdey.liveserver
+2023-06-04 20:11:31.857 [info] Installing extension: ritwickdey.liveserver
+2023-06-04 20:11:39.801 [info] Extension signature verification is not done: ritwickdey.liveserver
+2023-06-04 20:11:42.034 [info] Extracted extension to /home/agoy/.vscode-oss/extensions/.ee37ce5e-e460-45ef-bbe5-be4cc91be8cc: ritwickdey.liveserver
+2023-06-04 20:11:42.039 [info] Renamed to /home/agoy/.vscode-oss/extensions/ritwickdey.liveserver-5.7.9-universal
+2023-06-04 20:11:42.041 [info] Extracting extension completed. ritwickdey.liveserver
+2023-06-04 20:11:42.049 [info] Extension installed successfully: ritwickdey.liveserver
+2023-06-04 21:06:45.357 [info] Getting Manifest... yandeu.five-server
+2023-06-04 21:06:46.709 [info] Installing extension: yandeu.five-server
+2023-06-04 21:06:54.926 [info] Extension signature verification is not done: yandeu.five-server
+2023-06-04 21:06:55.813 [info] Extracted extension to /home/agoy/.vscode-oss/extensions/.fec6d5e0-f792-471d-a044-51b986254ae0: yandeu.five-server
+2023-06-04 21:06:55.821 [info] Renamed to /home/agoy/.vscode-oss/extensions/yandeu.five-server-0.2.3-universal
+2023-06-04 21:06:55.822 [info] Extracting extension completed. yandeu.five-server
+2023-06-04 21:06:55.830 [info] Extension installed successfully: yandeu.five-server

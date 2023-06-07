@@ -1,0 +1,16 @@
+2023-06-04 21:28:11.272 [info] Getting Manifest... tomi.xajssnippets
+2023-06-04 21:28:12.528 [info] Installing extension: tomi.xajssnippets
+2023-06-04 21:28:13.934 [info] Extension signature verification is not done: tomi.xajssnippets
+2023-06-04 21:28:13.972 [info] Extracted extension to /home/agoy/.vscode-oss/extensions/.0e80c4ca-8292-4d51-b5c5-fa951781c85f: tomi.xajssnippets
+2023-06-04 21:28:13.976 [info] Renamed to /home/agoy/.vscode-oss/extensions/tomi.xajssnippets-1.2.0-universal
+2023-06-04 21:28:13.978 [info] Extracting extension completed. tomi.xajssnippets
+2023-06-04 21:28:13.990 [info] Extension installed successfully: tomi.xajssnippets
+2023-06-05 20:47:24.453 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-06 06:05:10.850 [info] Getting Manifest... rust-lang.rust-analyzer
+2023-06-06 06:05:14.031 [info] Installing extension: rust-lang.rust-analyzer
+2023-06-06 06:06:17.735 [info] Extension signature verification is not done: rust-lang.rust-analyzer
+2023-06-06 06:06:18.407 [info] Extracted extension to /home/agoy/.vscode-oss/extensions/.8168e1dd-ec76-441d-8154-d8bd9e9726df: rust-lang.rust-analyzer
+2023-06-06 06:06:18.413 [info] Renamed to /home/agoy/.vscode-oss/extensions/rust-lang.rust-analyzer-0.3.1541-linux-x64
+2023-06-06 06:06:18.415 [info] Extracting extension completed. rust-lang.rust-analyzer
+2023-06-06 06:06:18.425 [info] Extension installed successfully: rust-lang.rust-analyzer
+2023-06-06 06:06:18.428 [info] Marked extension as uninstalled rust-lang.rust-analyzer-0.3.1533-linux-x64

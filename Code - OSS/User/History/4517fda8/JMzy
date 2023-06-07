@@ -1,0 +1,40 @@
+[bar/base]
+enable-ipc=true
+height = 25
+width = 100%
+
+;offset-y = 15
+offset-x = 0
+offset-y = 0
+
+padding = 2
+module-margin = 0
+
+background = #00000000
+;background = ${colors.background}
+;foreground = ${colors.foreground}
+bottom = true
+fixed-center = true
+
+;border-color = ${colors.background}
+border-size = 5
+border-left-size = 0
+border-right-size = 0
+
+line-size = 0
+;line-color = ${colors.color8}
+
+font-0=source-code-pro-light:style=normal:size=10;4
+;font-1=monospace:style=Bold Italic:size=11;4
+;font-0=SFMono Nerd Font Mono:style=Medium:size=10;2
+;font-1=JetBrainsMono Nerd Font:style=Medium:size=10;2
+;font-2=JetBrainsMono Nerd Font Mono:style=Medium:size=15;4
+;font-3=IPAGothic:size=9;2
+;font-4=Meiryo:size=9;2
+
+wm-restack = i3wm;bspwm
+override-redirect = false
+
+modules-left = launcher sepleft light_dark sepleft memory sepleft 
+modules-center = blockleft bspwm blockright
+modules-right = sepright backlight sepright pulseaudio sepright wlan sepright battery sepright date sepright powermenu

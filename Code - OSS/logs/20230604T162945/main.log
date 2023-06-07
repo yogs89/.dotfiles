@@ -1,0 +1,21 @@
+2023-06-04 16:29:45.233 [info] update#ctor - updates are disabled as there is no update URL
+2023-06-04 16:32:10.084 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2023-06-04 16:32:10.102 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 57793]: crashed with code 15 and reason 'killed'
+2023-06-04 16:32:45.125 [info] Extension host with pid 57782 exited with code: 139, signal: unknown.
+2023-06-04 16:32:45.126 [error] [UtilityProcess id: 1, type: extensionHost, pid: 57782]: crashed with code 139 and reason 'crashed'
+2023-06-04 16:36:01.791 [warning] [UtilityProcessWorker]: createWorker() found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+2023-06-04 16:36:01.802 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 58186]: crashed with code 15 and reason 'killed'
+2023-06-04 21:07:36.897 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2023-06-04 21:07:36.898 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 58597]: crashed with code 15 and reason 'killed'
+2023-06-04 21:07:36.972 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2023-06-04 21:07:36.973 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 58694]: crashed with code 15 and reason 'killed'
+2023-06-04 21:08:08.789 [info] Extension host with pid 58187 exited with code: 0, signal: unknown.
+2023-06-04 21:09:27.451 [warning] [UtilityProcessWorker]: createWorker() found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+2023-06-04 21:10:07.243 [error] CodeWindow: detected unresponsive
+2023-06-04 21:10:26.604 [error] CodeWindow: renderer process gone (reason: crashed, code: 133)
+2023-06-04 21:10:31.661 [error] [uncaught exception in main]: Error: Assertion Failed: argument is undefined or null
+2023-06-04 21:10:31.661 [error] Error: Assertion Failed: argument is undefined or null
+    at f (/usr/lib/code/out/vs/code/electron-main/main.js:16:48481)
+    at e.SharedProcess.connect (/usr/lib/code/out/vs/code/electron-main/main.js:85:29238)
+    at async e.SharedProcess.m (/usr/lib/code/out/vs/code/electron-main/main.js:85:27622)
+2023-06-04 21:10:35.518 [info] Extension host with pid 70996 exited with code: 0, signal: unknown.

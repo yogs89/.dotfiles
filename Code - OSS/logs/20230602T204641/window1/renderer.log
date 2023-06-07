@@ -1,0 +1,17 @@
+2023-06-02 20:46:44.391 [error] Extension 'ms-python.python CANNOT USE these API proposals 'contribEditorContentMenu, quickPickSortByLabel, envShellEvent, testObserver, quickPickItemTooltip, envCollectionWorkspace'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2023-06-02 20:46:44.439 [error] [ms-python.python]: editor/content is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribEditorContentMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.python
+2023-06-02 20:46:47.874 [info] [perf] Render performance baseline is 87ms
+2023-06-02 20:50:41.159 [error] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '//proc/1736/task/8569/attr/smack' failed: No such file or directory (EUNKNOWN) (path: /)
+2023-06-02 20:50:41.161 [error] [File Watcher (universal)] restarting watcher after error: inotify_add_watch on '//proc/1736/task/8569/attr/smack' failed: No such file or directory
+2023-06-02 20:50:41.173 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2023-06-02 20:50:41.174 [error] [File Watcher (universal)] restarting watcher after error: terminated by itself unexpectedly with code 15, signal: unknown
+2023-06-02 20:52:13.475 [error] [File Watcher (parcel)] Unexpected error: No such file or directory (EUNKNOWN) (path: /)
+2023-06-02 20:52:13.476 [error] [File Watcher (universal)] restarting watcher after error: No such file or directory
+2023-06-02 20:52:13.487 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2023-06-02 20:52:13.488 [error] [File Watcher (universal)] restarting watcher after error: terminated by itself unexpectedly with code 15, signal: unknown
+2023-06-02 20:53:39.509 [error] [File Watcher (parcel)] Unexpected error: No such file or directory (EUNKNOWN) (path: /)
+2023-06-02 20:53:39.593 [error] [File Watcher (universal)] restarting watcher after error: No such file or directory
+2023-06-02 20:53:39.604 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2023-06-02 20:53:39.604 [error] [File Watcher (universal)] gave up attempting to restart watcher after error: terminated by itself unexpectedly with code 15, signal: unknown
+2023-06-02 20:55:12.633 [error] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '//proc/1673/task/9073/attr/apparmor' failed: No such file or directory (EUNKNOWN) (path: /)
+2023-06-02 20:55:12.669 [error] [File Watcher (universal)] gave up attempting to restart watcher after error: inotify_add_watch on '//proc/1673/task/9073/attr/apparmor' failed: No such file or directory

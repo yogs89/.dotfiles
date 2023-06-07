@@ -1,0 +1,47 @@
+2023-06-02 20:13:33.906 [error] Extension 'ms-python.python CANNOT USE these API proposals 'contribEditorContentMenu, quickPickSortByLabel, envShellEvent, testObserver, quickPickItemTooltip, envCollectionWorkspace'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2023-06-02 20:13:33.961 [error] [ms-python.python]: editor/content is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribEditorContentMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.python
+2023-06-02 20:13:37.166 [info] [perf] Render performance baseline is 58ms
+2023-06-02 20:14:15.205 [error] [ms-python.python]: editor/content is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribEditorContentMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.python
+2023-06-02 20:14:15.643 [error] [File Watcher (parcel)] Unexpected error: No such file or directory (EUNKNOWN) (path: /)
+2023-06-02 20:14:15.643 [error] [File Watcher (universal)] restarting watcher after error: No such file or directory
+2023-06-02 20:14:51.923 [error] Unable to create 'launch.json' file inside the '.vscode' folder (Unable to write file '/.vscode/launch.json' (NoPermissions (FileSystemError): Error: EACCES: permission denied, mkdir '/.vscode')).: Error: Unable to create 'launch.json' file inside the '.vscode' folder (Unable to write file '/.vscode/launch.json' (NoPermissions (FileSystemError): Error: EACCES: permission denied, mkdir '/.vscode')).
+    at x.openConfigFile (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1844:61590)
+    at async e.DebugService.hb (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1857:95004)
+    at async e.DebugService.startDebugging (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1857:92816)
+    at async handler (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1857:66853)
+    at async i.open (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:624:42727)
+    at async e.OpenerService.open (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:624:44254)
+2023-06-02 20:15:30.830 [error] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '//proc/4603/task/4644/attr/apparmor' failed: No such file or directory (EUNKNOWN) (path: /)
+2023-06-02 20:15:31.074 [error] [File Watcher (universal)] restarting watcher after error: inotify_add_watch on '//proc/4603/task/4644/attr/apparmor' failed: No such file or directory
+2023-06-02 20:16:17.451 [error] Extension host (LocalProcess) terminated unexpectedly. No extensions were activated.
+2023-06-02 20:16:17.452 [info] Automatically restarting the extension host.
+2023-06-02 20:16:17.809 [error] Canceled: Error: Canceled
+    at M (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1829:6390)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1837:4256
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1837:2747
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1064:34087
+2023-06-02 20:17:32.421 [error] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '//proc/997/task/5160/net/dev_snmp6' failed: No such file or directory (EUNKNOWN) (path: /)
+2023-06-02 20:17:32.459 [error] [File Watcher (universal)] restarting watcher after error: inotify_add_watch on '//proc/997/task/5160/net/dev_snmp6' failed: No such file or directory
+2023-06-02 20:18:19.478 [error] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '//proc/1429/task/4909/attr/smack' failed: No such file or directory (EUNKNOWN) (path: /)
+2023-06-02 20:18:19.559 [error] [File Watcher (universal)] restarting watcher after error: inotify_add_watch on '//proc/1429/task/4909/attr/smack' failed: No such file or directory
+2023-06-02 20:18:55.011 [error] [File Watcher (parcel)] Unexpected error: No such file or directory (EUNKNOWN) (path: /)
+2023-06-02 20:18:55.094 [error] [File Watcher (universal)] restarting watcher after error: No such file or directory
+2023-06-02 20:18:55.114 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2023-06-02 20:18:55.114 [error] [File Watcher (universal)] gave up attempting to restart watcher after error: terminated by itself unexpectedly with code 15, signal: unknown
+2023-06-02 20:19:40.995 [error] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '//proc/20/task/20/net/stat' failed: No such file or directory (EUNKNOWN) (path: /)
+2023-06-02 20:19:41.079 [error] [File Watcher (universal)] gave up attempting to restart watcher after error: inotify_add_watch on '//proc/20/task/20/net/stat' failed: No such file or directory
+2023-06-02 20:20:18.284 [error] [Extension Host] (node:5033) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2023-06-02 20:29:38.165 [error] Unable to load and parse grammar for scope rustdoc.markdown.injection from file:///home/agoy/.vscode-oss/extensions/rust-lang.rust-analyzer-0.3.1533-linux-x64/rustdoc.markdown.injection.tmGrammar.json Unable to read file '/home/agoy/.vscode-oss/extensions/rust-lang.rust-analyzer-0.3.1533-linux-x64/rustdoc.markdown.injection.tmGrammar.json' (Error: Unable to resolve nonexistent file '/home/agoy/.vscode-oss/extensions/rust-lang.rust-analyzer-0.3.1533-linux-x64/rustdoc.markdown.injection.tmGrammar.json')
+2023-06-02 20:37:26.909 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-02 20:37:41.110 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-02 20:37:41.339 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-02 20:37:41.655 [error] Unknown (FileSystemError): Failed to move 'asd' to the trash
+    at t.create (/usr/lib/code/out/vs/code/electron-main/main.js:37:3882)
+    at a (/usr/lib/code/out/vs/code/electron-main/main.js:37:4012)
+    at p.s (/usr/lib/code/out/vs/code/electron-main/main.js:42:43065)
+2023-06-02 20:37:41.675 [error] Failed to move 'asd' to the trash: Unknown (FileSystemError): Failed to move 'asd' to the trash
+    at t.create (/usr/lib/code/out/vs/code/electron-main/main.js:37:3882)
+    at a (/usr/lib/code/out/vs/code/electron-main/main.js:37:4012)
+    at p.s (/usr/lib/code/out/vs/code/electron-main/main.js:42:43065)
+2023-06-02 20:37:41.758 [warning] UNRESPONSIVE extension host: 'franneck94.c-cpp-runner' took 76.3105036445379% of 194.517ms, saved PROFILE here: 'file:///tmp/exthost-a6c873.cpuprofile'

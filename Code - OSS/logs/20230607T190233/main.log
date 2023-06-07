@@ -1,0 +1,4 @@
+2023-06-07 19:02:36.722 [info] update#ctor - updates are disabled as there is no update URL
+2023-06-07 19:02:54.407 [warning] [UtilityProcessWorker]: createWorker() found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+2023-06-07 19:05:23.608 [warning] [UtilityProcessWorker]: createWorker() found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+2023-06-07 19:06:48.703 [info] Extension host with pid 1266 exited with code: 0, signal: unknown.

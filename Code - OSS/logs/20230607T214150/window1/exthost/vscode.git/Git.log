@@ -1,0 +1,63 @@
+2023-06-07 21:42:04.138 [info] Log level: Info
+2023-06-07 21:42:04.138 [info] Validating found git in: "git"
+2023-06-07 21:42:04.219 [info] Using git "2.40.1" from "git"
+2023-06-07 21:42:04.239 [info] > git rev-parse --show-toplevel [14ms]
+2023-06-07 21:42:04.239 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-06-07 21:42:04.247 [info] > git rev-parse --show-toplevel [2ms]
+2023-06-07 21:42:04.248 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-06-07 21:42:04.287 [info] > git rev-parse --show-toplevel [16ms]
+2023-06-07 21:42:04.288 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-06-07 21:42:04.317 [info] > git rev-parse --show-toplevel [17ms]
+2023-06-07 21:42:04.317 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-06-07 21:42:04.330 [info] > git rev-parse --show-toplevel [5ms]
+2023-06-07 21:42:04.330 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-06-07 21:42:04.352 [info] > git rev-parse --show-toplevel [5ms]
+2023-06-07 21:42:04.352 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-06-07 21:42:04.409 [info] > git rev-parse --show-toplevel [30ms]
+2023-06-07 21:42:04.409 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-06-07 21:42:04.431 [info] > git rev-parse --show-toplevel [5ms]
+2023-06-07 21:42:04.431 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-06-07 21:42:04.460 [info] > git rev-parse --show-toplevel [13ms]
+2023-06-07 21:42:04.460 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-06-07 21:42:04.487 [info] > git rev-parse --show-toplevel [1ms]
+2023-06-07 21:42:04.487 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-06-07 21:42:04.503 [info] > git rev-parse --show-toplevel [2ms]
+2023-06-07 21:42:04.503 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-06-07 21:42:04.527 [info] > git rev-parse --show-toplevel [9ms]
+2023-06-07 21:42:04.530 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-06-07 21:42:04.545 [info] > git rev-parse --show-toplevel [1ms]
+2023-06-07 21:42:04.545 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-06-07 21:42:04.564 [info] > git rev-parse --show-toplevel [0ms]
+2023-06-07 21:42:04.564 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-06-07 21:42:04.591 [info] > git rev-parse --show-toplevel [12ms]
+2023-06-07 21:42:04.591 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-06-07 21:54:25.065 [info] > git rev-parse --show-toplevel [2ms]
+2023-06-07 21:54:25.075 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2023-06-07 21:54:25.082 [info] Open repository: /home/agoy/Documents/kuliah
+2023-06-07 21:54:25.097 [info] > git config --get commit.template [8ms]
+2023-06-07 21:54:25.100 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2023-06-07 21:54:25.107 [info] > git status -z -uall [2ms]
+2023-06-07 21:54:25.120 [info] > git config --get commit.template [4ms]
+2023-06-07 21:54:25.120 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-06-07 21:54:25.126 [info] > git status -z -uall [2ms]
+2023-06-07 21:54:26.106 [info] > git rev-parse --show-toplevel [2ms]
+2023-06-07 22:28:52.611 [info] > git rev-parse --show-toplevel [1ms]
+2023-06-07 22:29:13.461 [info] > git rev-parse --show-toplevel [0ms]
+2023-06-07 22:31:39.470 [info] > git rev-parse --show-toplevel [1ms]
+2023-06-07 22:49:10.329 [info] > git rev-parse --show-toplevel [1ms]
+2023-06-07 22:56:05.425 [info] > git config --get commit.template [1ms]
+2023-06-07 22:56:05.435 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2023-06-07 22:56:05.443 [info] > git status -z -uall [2ms]
+2023-06-07 22:56:41.435 [info] > git rev-parse --show-toplevel [3ms]
+2023-06-07 22:56:41.435 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-06-07 22:59:27.201 [info] > git rev-parse --show-toplevel [1ms]
+2023-06-07 22:59:27.201 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-06-07 22:59:36.031 [info] > git rev-parse --show-toplevel [2ms]
+2023-06-07 22:59:36.031 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-06-07 22:59:40.489 [info] > git rev-parse --show-toplevel [3ms]
+2023-06-07 22:59:40.489 [info] fatal: not a git repository (or any of the parent directories): .git

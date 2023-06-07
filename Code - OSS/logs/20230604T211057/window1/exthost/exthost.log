@@ -1,0 +1,141 @@
+2023-06-04 21:11:00.743 [info] Extension host with pid 71596 started
+2023-06-04 21:11:00.743 [info] Skipping acquiring lock for /home/agoy/.config/Code - OSS/User/workspaceStorage/de045d141a8b035fd6afde5a0c3a97e9.
+2023-06-04 21:11:00.772 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-06-04 21:11:00.809 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2023-06-04 21:11:01.538 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-06-04 21:11:01.541 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: true, activationEvent: '*'
+2023-06-04 21:11:01.586 [info] ExtensionService#_doActivateExtension s-nlf-fh.glassit, startup: true, activationEvent: '*'
+2023-06-04 21:11:01.872 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-06-04 21:11:02.191 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-06-04 21:11:02.521 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-06-04 21:11:02.840 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-06-04 21:11:08.532 [info] Not activating extension 'franneck94.c-cpp-runner': Timed out while searching for 'workspaceContains' pattern *.h,*.c,*.hh,*.cc,*.hxx,*.cxx,*.hpp,*.cpp
+2023-06-04 21:11:08.533 [info] Not activating extension 'rust-lang.rust-analyzer': Timed out while searching for 'workspaceContains' pattern */Cargo.toml,*/rust-project.json
+2023-06-04 21:11:08.535 [info] Eager extensions activated
+2023-06-04 21:11:08.566 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-06-04 21:11:08.568 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-06-04 21:11:08.644 [info] ExtensionService#_doActivateExtension vadimcn.vscode-lldb, startup: false, activationEvent: 'onStartupFinished'
+2023-06-04 21:11:08.658 [info] ExtensionService#_doActivateExtension yandeu.five-server, startup: false, activationEvent: 'onStartupFinished'
+2023-06-04 21:22:40.877 [error] [ecmel.vscode-html-css] provider FAILED
+2023-06-04 21:22:40.877 [error] undefined
+2023-06-04 21:30:44.327 [error] [ecmel.vscode-html-css] provider FAILED
+2023-06-04 21:30:44.327 [error] undefined
+2023-06-04 21:30:49.552 [error] [ecmel.vscode-html-css] provider FAILED
+2023-06-04 21:30:49.552 [error] undefined
+2023-06-04 21:30:52.276 [error] [ecmel.vscode-html-css] provider FAILED
+2023-06-04 21:30:52.276 [error] undefined
+2023-06-04 22:15:24.987 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2023-06-04 22:15:25.041 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2023-06-04 22:15:30.246 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2023-06-04 22:15:30.890 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2023-06-04 22:16:09.005 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2023-06-04 22:19:24.949 [error] [ecmel.vscode-html-css] provider FAILED
+2023-06-04 22:19:24.949 [error] undefined
+2023-06-04 22:19:33.837 [error] [ecmel.vscode-html-css] provider FAILED
+2023-06-04 22:19:33.837 [error] undefined
+2023-06-04 22:19:36.178 [error] [ecmel.vscode-html-css] provider FAILED
+2023-06-04 22:19:36.178 [error] undefined
+2023-06-04 22:19:41.194 [error] [ecmel.vscode-html-css] provider FAILED
+2023-06-04 22:19:41.194 [error] undefined
+2023-06-04 22:19:42.671 [error] [ecmel.vscode-html-css] provider FAILED
+2023-06-04 22:19:42.672 [error] undefined
+2023-06-04 22:19:44.287 [error] [ecmel.vscode-html-css] provider FAILED
+2023-06-04 22:19:44.287 [error] undefined
+2023-06-04 22:19:47.261 [error] [ecmel.vscode-html-css] provider FAILED
+2023-06-04 22:19:47.261 [error] undefined
+2023-06-04 22:19:53.043 [error] [ecmel.vscode-html-css] provider FAILED
+2023-06-04 22:19:53.044 [error] undefined
+2023-06-04 22:20:11.388 [error] [ecmel.vscode-html-css] provider FAILED
+2023-06-04 22:20:11.388 [error] undefined
+2023-06-04 22:20:11.611 [error] [ecmel.vscode-html-css] provider FAILED
+2023-06-04 22:20:11.611 [error] undefined
+2023-06-04 22:21:45.055 [error] [ecmel.vscode-html-css] provider FAILED
+2023-06-04 22:21:45.055 [error] undefined
+2023-06-04 22:25:31.872 [error] [ecmel.vscode-html-css] provider FAILED
+2023-06-04 22:25:31.872 [error] undefined
+2023-06-04 22:25:37.660 [error] [ecmel.vscode-html-css] provider FAILED
+2023-06-04 22:25:37.660 [error] undefined
+2023-06-04 22:25:42.021 [error] [ecmel.vscode-html-css] provider FAILED
+2023-06-04 22:25:42.021 [error] undefined
+2023-06-04 22:25:44.949 [error] [ecmel.vscode-html-css] provider FAILED
+2023-06-04 22:25:44.949 [error] undefined
+2023-06-04 22:25:45.287 [error] [ecmel.vscode-html-css] provider FAILED
+2023-06-04 22:25:45.287 [error] undefined
+2023-06-04 22:25:46.560 [error] [ecmel.vscode-html-css] provider FAILED
+2023-06-04 22:25:46.560 [error] undefined
+2023-06-04 22:25:50.757 [error] [ecmel.vscode-html-css] provider FAILED
+2023-06-04 22:25:50.757 [error] undefined
+2023-06-04 22:25:54.550 [error] [ecmel.vscode-html-css] provider FAILED
+2023-06-04 22:25:54.550 [error] undefined
+2023-06-04 22:25:54.641 [error] [ecmel.vscode-html-css] provider FAILED
+2023-06-04 22:25:54.641 [error] undefined
+2023-06-04 23:08:49.103 [error] [ecmel.vscode-html-css] provider FAILED
+2023-06-04 23:08:49.103 [error] undefined
+2023-06-04 23:08:51.882 [error] [ecmel.vscode-html-css] provider FAILED
+2023-06-04 23:08:51.882 [error] undefined
+2023-06-04 23:08:52.326 [error] [ecmel.vscode-html-css] provider FAILED
+2023-06-04 23:08:52.326 [error] undefined
+2023-06-04 23:08:53.491 [error] [ecmel.vscode-html-css] provider FAILED
+2023-06-04 23:08:53.491 [error] undefined
+2023-06-04 23:08:53.882 [error] [ecmel.vscode-html-css] provider FAILED
+2023-06-04 23:08:53.883 [error] undefined
+2023-06-04 23:08:54.074 [error] [ecmel.vscode-html-css] provider FAILED
+2023-06-04 23:08:54.074 [error] undefined
+2023-06-04 23:08:54.279 [error] [ecmel.vscode-html-css] provider FAILED
+2023-06-04 23:08:54.279 [error] undefined
+2023-06-04 23:08:54.538 [error] [ecmel.vscode-html-css] provider FAILED
+2023-06-04 23:08:54.538 [error] undefined
+2023-06-04 23:08:56.173 [error] [ecmel.vscode-html-css] provider FAILED
+2023-06-04 23:08:56.174 [error] undefined
+2023-06-04 23:08:56.248 [error] [ecmel.vscode-html-css] provider FAILED
+2023-06-04 23:08:56.248 [error] undefined
+2023-06-04 23:09:01.294 [error] [ecmel.vscode-html-css] provider FAILED
+2023-06-04 23:09:01.294 [error] undefined
+2023-06-04 23:09:04.180 [error] [ecmel.vscode-html-css] provider FAILED
+2023-06-04 23:09:04.180 [error] undefined
+2023-06-04 23:09:04.711 [error] [ecmel.vscode-html-css] provider FAILED
+2023-06-04 23:09:04.711 [error] undefined
+2023-06-04 23:09:09.444 [error] [ecmel.vscode-html-css] provider FAILED
+2023-06-04 23:09:09.444 [error] undefined
+2023-06-04 23:09:10.936 [error] [ecmel.vscode-html-css] provider FAILED
+2023-06-04 23:09:10.936 [error] undefined
+2023-06-04 23:09:11.346 [error] [ecmel.vscode-html-css] provider FAILED
+2023-06-04 23:09:11.346 [error] undefined
+2023-06-04 23:09:15.730 [error] [ecmel.vscode-html-css] provider FAILED
+2023-06-04 23:09:15.730 [error] undefined
+2023-06-04 23:10:10.144 [error] [ecmel.vscode-html-css] provider FAILED
+2023-06-04 23:10:10.144 [error] undefined
+2023-06-04 23:10:19.500 [error] [ecmel.vscode-html-css] provider FAILED
+2023-06-04 23:10:19.500 [error] undefined
+2023-06-04 23:10:22.847 [error] [ecmel.vscode-html-css] provider FAILED
+2023-06-04 23:10:22.847 [error] undefined
+2023-06-04 23:10:29.367 [error] [ecmel.vscode-html-css] provider FAILED
+2023-06-04 23:10:29.367 [error] undefined
+2023-06-04 23:10:32.628 [error] [ecmel.vscode-html-css] provider FAILED
+2023-06-04 23:10:32.628 [error] undefined
+2023-06-04 23:10:34.378 [error] [ecmel.vscode-html-css] provider FAILED
+2023-06-04 23:10:34.378 [error] undefined
+2023-06-04 23:12:47.781 [error] [ecmel.vscode-html-css] provider FAILED
+2023-06-04 23:12:47.782 [error] undefined
+2023-06-04 23:12:49.425 [error] [ecmel.vscode-html-css] provider FAILED
+2023-06-04 23:12:49.426 [error] undefined
+2023-06-04 23:12:51.402 [error] [ecmel.vscode-html-css] provider FAILED
+2023-06-04 23:12:51.402 [error] undefined
+2023-06-04 23:12:52.124 [error] [ecmel.vscode-html-css] provider FAILED
+2023-06-04 23:12:52.124 [error] undefined
+2023-06-04 23:20:36.890 [error] [ecmel.vscode-html-css] provider FAILED
+2023-06-04 23:20:36.890 [error] undefined
+2023-06-04 23:20:41.450 [error] [ecmel.vscode-html-css] provider FAILED
+2023-06-04 23:20:41.450 [error] undefined
+2023-06-04 23:20:41.620 [error] [ecmel.vscode-html-css] provider FAILED
+2023-06-04 23:20:41.620 [error] undefined
+2023-06-04 23:20:41.810 [error] [ecmel.vscode-html-css] provider FAILED
+2023-06-04 23:20:41.810 [error] undefined
+2023-06-04 23:41:29.039 [error] [ecmel.vscode-html-css] provider FAILED
+2023-06-04 23:41:29.039 [error] undefined
+2023-06-04 23:41:29.326 [error] [ecmel.vscode-html-css] provider FAILED
+2023-06-04 23:41:29.326 [error] undefined
+2023-06-04 23:41:29.885 [error] [ecmel.vscode-html-css] provider FAILED
+2023-06-04 23:41:29.885 [error] undefined
+2023-06-06 21:03:01.286 [info] Extension host terminating: renderer closed the MessagePort
+2023-06-06 21:03:01.325 [info] Extension host with pid 71596 exiting with code 0

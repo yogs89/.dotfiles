@@ -1,0 +1,5 @@
+2023-06-03 23:37:55.994 [error] Extension 'ms-python.python CANNOT USE these API proposals 'contribEditorContentMenu, quickPickSortByLabel, envShellEvent, testObserver, quickPickItemTooltip, envCollectionWorkspace'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2023-06-03 23:37:56.052 [error] [ms-python.python]: editor/content is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribEditorContentMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.python
+2023-06-03 23:37:59.520 [info] [perf] Render performance baseline is 154ms
+2023-06-03 23:39:46.785 [error] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '//proc/1061/task/38352/attr/apparmor' failed: No such file or directory (EUNKNOWN) (path: /)
+2023-06-03 23:39:46.785 [error] [File Watcher (universal)] restarting watcher after error: inotify_add_watch on '//proc/1061/task/38352/attr/apparmor' failed: No such file or directory

@@ -1,0 +1,32 @@
+2023-06-04 21:10:31.562 [error] Error received from starting extension host (kind: LocalProcess)
+2023-06-04 21:10:31.601 [error] Canceled: Canceled
+    at m (/usr/lib/code/out/vs/code/electron-main/main.js:7:1192)
+    at Dt.createExtensionHost (/usr/lib/code/out/vs/code/electron-main/main.js:85:25848)
+    at Object.call (/usr/lib/code/out/vs/code/electron-main/main.js:25:5136)
+    at I.s (/usr/lib/code/out/vs/code/electron-main/main.js:23:6141)
+    at I.q (/usr/lib/code/out/vs/code/electron-main/main.js:23:5618)
+    at /usr/lib/code/out/vs/code/electron-main/main.js:23:5014
+    at w.invoke (/usr/lib/code/out/vs/code/electron-main/main.js:19:145)
+    at c.deliver (/usr/lib/code/out/vs/code/electron-main/main.js:19:2121)
+    at r.fire (/usr/lib/code/out/vs/code/electron-main/main.js:19:1729)
+    at /usr/lib/code/out/vs/code/electron-main/main.js:17:19515
+    at w.invoke (/usr/lib/code/out/vs/code/electron-main/main.js:19:145)
+    at c.deliver (/usr/lib/code/out/vs/code/electron-main/main.js:19:2121)
+    at r.fire (/usr/lib/code/out/vs/code/electron-main/main.js:19:1729)
+    at /usr/lib/code/out/vs/code/electron-main/main.js:17:19701
+    at w.invoke (/usr/lib/code/out/vs/code/electron-main/main.js:19:145)
+    at c.deliver (/usr/lib/code/out/vs/code/electron-main/main.js:19:2121)
+    at r.fire (/usr/lib/code/out/vs/code/electron-main/main.js:19:1729)
+    at V (/usr/lib/code/out/vs/code/electron-main/main.js:17:21806)
+    at IpcMainImpl.h (/usr/lib/code/out/vs/code/electron-main/main.js:16:77924)
+    at IpcMainImpl.emit (node:events:525:35)
+    at EventEmitter.<anonymous> (node:electron/js2c/browser_init:2:81053)
+    at EventEmitter.emit (node:events:513:28)
+2023-06-04 21:10:31.778 [error] [uncaught exception in main]: Assertion Failed: argument is undefined or null: Error: Assertion Failed: argument is undefined or null
+    at f (/usr/lib/code/out/vs/code/electron-main/main.js:16:48481)
+    at e.SharedProcess.connect (/usr/lib/code/out/vs/code/electron-main/main.js:85:29238)
+    at async e.SharedProcess.m (/usr/lib/code/out/vs/code/electron-main/main.js:85:27622)
+2023-06-04 21:10:31.789 [error] Extension 'ms-python.python CANNOT USE these API proposals 'contribEditorContentMenu, quickPickSortByLabel, envShellEvent, testObserver, quickPickItemTooltip, envCollectionWorkspace'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2023-06-04 21:10:31.843 [error] [ms-python.python]: editor/content is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribEditorContentMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.python
+2023-06-04 21:10:32.265 [error] [xabikos.JavaScriptSnippets]: Unknown language in `contributes.JavaScriptSnippets.language`. Provided value: vue
+2023-06-04 21:10:35.291 [info] [perf] Render performance baseline is 66ms

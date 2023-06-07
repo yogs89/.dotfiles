@@ -1,0 +1,73 @@
+2023-06-02 21:51:42.431 [info] Extension host with pid 11778 started
+2023-06-02 21:51:42.431 [info] Skipping acquiring lock for /home/agoy/.config/Code - OSS/User/workspaceStorage/de045d141a8b035fd6afde5a0c3a97e9.
+2023-06-02 21:51:42.484 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-06-02 21:51:42.487 [info] ExtensionService#_doActivateExtension s-nlf-fh.glassit, startup: true, activationEvent: '*'
+2023-06-02 21:51:42.501 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: true, activationEvent: '*'
+2023-06-02 21:51:42.747 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-06-02 21:51:42.765 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-06-02 21:51:42.914 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-06-02 21:51:42.929 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-06-02 21:51:42.940 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-06-02 21:51:43.903 [info] Extension host terminating: renderer closed the MessagePort
+2023-06-02 21:51:43.918 [info] Eager extensions activated
+2023-06-02 21:51:43.922 [error] Activating extension vscode.debug-auto-launch failed due to an error:
+2023-06-02 21:51:43.922 [error] Canceled: Canceled
+	at new l (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:98:104563)
+	at a.O (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:110:11657)
+	at H.<computed>.V.charCodeAt.H.<computed> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:110:8947)
+	at v.Z (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:11427)
+	at Object.actualActivateExtension (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:8660)
+	at v.n (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:6657)
+	at v.m (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:6618)
+	at v.l (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:6075)
+	at new v (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:6002)
+	at e.ExtensionsActivator.k (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:5513)
+	at e.ExtensionsActivator.j (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:5468)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:4389
+	at Array.map (<anonymous>)
+	at e.ExtensionsActivator.h (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:4377)
+	at e.ExtensionsActivator.activateById (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:4289)
+	at v.U (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:9970)
+	at v.fb (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:14915)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:15599
+2023-06-02 21:51:43.922 [error] Activating extension vscode.merge-conflict failed due to an error:
+2023-06-02 21:51:43.922 [error] Canceled: Canceled
+	at new l (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:98:104563)
+	at a.O (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:110:11657)
+	at H.<computed>.V.charCodeAt.H.<computed> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:110:8947)
+	at v.Z (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:11427)
+	at Object.actualActivateExtension (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:8660)
+	at v.n (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:6657)
+	at v.m (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:6618)
+	at v.l (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:6075)
+	at new v (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:6002)
+	at e.ExtensionsActivator.k (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:5513)
+	at e.ExtensionsActivator.j (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:5468)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:4389
+	at Array.map (<anonymous>)
+	at e.ExtensionsActivator.h (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:4377)
+	at e.ExtensionsActivator.activateById (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:4289)
+	at v.U (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:9970)
+	at v.fb (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:14915)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:15599
+2023-06-02 21:51:43.930 [error] Activating extension vadimcn.vscode-lldb failed due to an error:
+2023-06-02 21:51:43.930 [error] Canceled: Canceled
+	at new l (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:98:104563)
+	at a.O (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:110:11657)
+	at H.<computed>.V.charCodeAt.H.<computed> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:110:8947)
+	at v.Z (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:11427)
+	at Object.actualActivateExtension (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:8660)
+	at v.n (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:6657)
+	at v.m (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:6618)
+	at v.l (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:6075)
+	at new v (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:6002)
+	at e.ExtensionsActivator.k (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:5513)
+	at e.ExtensionsActivator.j (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:5468)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:4389
+	at Array.map (<anonymous>)
+	at e.ExtensionsActivator.h (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:4377)
+	at e.ExtensionsActivator.activateById (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:4289)
+	at v.U (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:9970)
+	at v.fb (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:14915)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:15599
+2023-06-02 21:51:43.933 [info] Extension host with pid 11778 exiting with code 0

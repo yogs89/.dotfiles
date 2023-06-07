@@ -1,0 +1,82 @@
+2023-06-04 21:10:59.917 [error] Extension 'ms-python.python CANNOT USE these API proposals 'contribEditorContentMenu, quickPickSortByLabel, envShellEvent, testObserver, quickPickItemTooltip, envCollectionWorkspace'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2023-06-04 21:10:59.978 [error] [ms-python.python]: editor/content is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribEditorContentMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.python
+2023-06-04 21:11:00.597 [error] [xabikos.JavaScriptSnippets]: Unknown language in `contributes.JavaScriptSnippets.language`. Provided value: vue
+2023-06-04 21:11:03.283 [info] [perf] Render performance baseline is 88ms
+2023-06-04 21:14:19.357 [error] [File Watcher (parcel)] Unexpected error: No such file or directory (EUNKNOWN) (path: /)
+2023-06-04 21:14:19.359 [error] [File Watcher (universal)] restarting watcher after error: No such file or directory
+2023-06-04 21:14:19.386 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2023-06-04 21:14:19.386 [error] [File Watcher (universal)] restarting watcher after error: terminated by itself unexpectedly with code 15, signal: unknown
+2023-06-04 21:15:46.127 [error] [File Watcher (parcel)] Unexpected error: No such file or directory (EUNKNOWN) (path: /)
+2023-06-04 21:15:46.129 [error] [File Watcher (universal)] restarting watcher after error: No such file or directory
+2023-06-04 21:17:27.326 [error] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '//proc/601/task/72283/net/netfilter' failed: No such file or directory (EUNKNOWN) (path: /)
+2023-06-04 21:17:27.366 [error] [File Watcher (universal)] restarting watcher after error: inotify_add_watch on '//proc/601/task/72283/net/netfilter' failed: No such file or directory
+2023-06-04 21:19:03.300 [error] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '//proc/1778/task/72428/attr/apparmor' failed: No such file or directory (EUNKNOWN) (path: /)
+2023-06-04 21:19:03.338 [error] [File Watcher (universal)] restarting watcher after error: inotify_add_watch on '//proc/1778/task/72428/attr/apparmor' failed: No such file or directory
+2023-06-04 21:20:31.951 [error] [File Watcher (parcel)] Unexpected error: No such file or directory (EUNKNOWN) (path: /)
+2023-06-04 21:20:31.990 [error] [File Watcher (universal)] gave up attempting to restart watcher after error: No such file or directory
+2023-06-04 21:22:40.880 [error] An unknown error occurred. Please consult the log for more details.
+2023-06-04 21:23:26.997 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-04 21:23:28.175 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-04 21:23:28.322 [warning] UNRESPONSIVE extension host: 'yandeu.five-server' took 33.43852400023708% of 394.919ms, saved PROFILE here: 'file:///tmp/exthost-e79d45.cpuprofile'
+2023-06-04 21:23:33.108 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-04 21:23:35.199 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-06-04 21:28:14.082 [error] [xabikos.JavaScriptSnippets]: Unknown language in `contributes.JavaScriptSnippets.language`. Provided value: vue
+2023-06-04 21:30:44.329 [error] An unknown error occurred. Please consult the log for more details.
+2023-06-04 21:30:49.554 [error] An unknown error occurred. Please consult the log for more details.
+2023-06-04 21:30:52.279 [error] An unknown error occurred. Please consult the log for more details.
+2023-06-04 22:15:04.936 [error] Unable to read file '/home/agoy/web/asd.js' (Error: File not modified since): Error: Unable to read file '/home/agoy/web/asd.js' (Error: File not modified since)
+    at e.FileService.w (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:624:17669)
+    at e.FileService.v (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:624:17501)
+    at async e.NativeTextFileService.H (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2307:38305)
+    at async e.NativeTextFileService.readStream (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2307:38000)
+    at async Hs.Ab (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2298:54368)
+    at async Hs.resolve (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2298:52773)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2307:34023
+2023-06-04 22:15:30.603 [error] Unable to load and parse grammar for scope rustdoc.markdown.injection from file:///home/agoy/.vscode-oss/extensions/rust-lang.rust-analyzer-0.3.1533-linux-x64/rustdoc.markdown.injection.tmGrammar.json Unable to read file '/home/agoy/.vscode-oss/extensions/rust-lang.rust-analyzer-0.3.1533-linux-x64/rustdoc.markdown.injection.tmGrammar.json' (Error: Unable to resolve nonexistent file '/home/agoy/.vscode-oss/extensions/rust-lang.rust-analyzer-0.3.1533-linux-x64/rustdoc.markdown.injection.tmGrammar.json')
+2023-06-04 22:19:24.950 [error] An unknown error occurred. Please consult the log for more details.
+2023-06-04 22:19:33.843 [error] An unknown error occurred. Please consult the log for more details.
+2023-06-04 22:19:36.179 [error] An unknown error occurred. Please consult the log for more details.
+2023-06-04 22:19:41.197 [error] An unknown error occurred. Please consult the log for more details.
+2023-06-04 22:19:42.673 [error] An unknown error occurred. Please consult the log for more details.
+2023-06-04 22:19:44.289 [error] An unknown error occurred. Please consult the log for more details.
+2023-06-04 22:19:47.263 [error] An unknown error occurred. Please consult the log for more details.
+2023-06-04 22:19:53.044 [error] An unknown error occurred. Please consult the log for more details.
+2023-06-04 22:20:11.390 [error] An unknown error occurred. Please consult the log for more details.
+2023-06-04 22:21:45.057 [error] An unknown error occurred. Please consult the log for more details.
+2023-06-04 22:25:31.880 [error] An unknown error occurred. Please consult the log for more details.
+2023-06-04 22:25:37.661 [error] An unknown error occurred. Please consult the log for more details.
+2023-06-04 22:25:42.026 [error] An unknown error occurred. Please consult the log for more details.
+2023-06-04 22:25:44.952 [error] An unknown error occurred. Please consult the log for more details.
+2023-06-04 22:25:46.561 [error] An unknown error occurred. Please consult the log for more details.
+2023-06-04 22:25:50.760 [error] An unknown error occurred. Please consult the log for more details.
+2023-06-04 22:25:54.551 [error] An unknown error occurred. Please consult the log for more details.
+2023-06-04 23:08:49.112 [error] An unknown error occurred. Please consult the log for more details.
+2023-06-04 23:08:51.885 [error] An unknown error occurred. Please consult the log for more details.
+2023-06-04 23:08:53.492 [error] An unknown error occurred. Please consult the log for more details.
+2023-06-04 23:08:54.540 [error] An unknown error occurred. Please consult the log for more details.
+2023-06-04 23:08:56.174 [error] An unknown error occurred. Please consult the log for more details.
+2023-06-04 23:09:01.304 [error] An unknown error occurred. Please consult the log for more details.
+2023-06-04 23:09:04.181 [error] An unknown error occurred. Please consult the log for more details.
+2023-06-04 23:09:09.454 [error] An unknown error occurred. Please consult the log for more details.
+2023-06-04 23:09:10.943 [error] An unknown error occurred. Please consult the log for more details.
+2023-06-04 23:09:15.731 [error] An unknown error occurred. Please consult the log for more details.
+2023-06-04 23:10:10.146 [error] An unknown error occurred. Please consult the log for more details.
+2023-06-04 23:10:19.507 [error] An unknown error occurred. Please consult the log for more details.
+2023-06-04 23:10:22.849 [error] An unknown error occurred. Please consult the log for more details.
+2023-06-04 23:10:29.376 [error] An unknown error occurred. Please consult the log for more details.
+2023-06-04 23:10:32.632 [error] An unknown error occurred. Please consult the log for more details.
+2023-06-04 23:10:34.379 [error] An unknown error occurred. Please consult the log for more details.
+2023-06-04 23:12:47.786 [error] An unknown error occurred. Please consult the log for more details.
+2023-06-04 23:12:49.431 [error] An unknown error occurred. Please consult the log for more details.
+2023-06-04 23:12:51.409 [error] An unknown error occurred. Please consult the log for more details.
+2023-06-04 23:20:36.896 [error] An unknown error occurred. Please consult the log for more details.
+2023-06-04 23:20:41.467 [error] An unknown error occurred. Please consult the log for more details.
+2023-06-04 23:41:29.050 [error] An unknown error occurred. Please consult the log for more details.
+2023-06-04 23:43:11.094 [error] Unable to read file '/home/agoy/web/asdsad/index.html' (Error: File not modified since): Error: Unable to read file '/home/agoy/web/asdsad/index.html' (Error: File not modified since)
+    at e.FileService.w (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:624:17669)
+    at e.FileService.v (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:624:17501)
+    at async e.NativeTextFileService.H (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2307:38305)
+    at async e.NativeTextFileService.readStream (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2307:38000)
+    at async Hs.Ab (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2298:54368)
+    at async Hs.resolve (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2298:52773)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2307:34023

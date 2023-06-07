@@ -1,0 +1,14 @@
+2023-06-02 20:13:59.761 [info] Getting Manifest... franneck94.c-cpp-runner
+2023-06-02 20:14:01.009 [info] Installing extension: franneck94.c-cpp-runner
+2023-06-02 20:14:01.610 [info] Getting Manifest... vadimcn.vscode-lldb
+2023-06-02 20:14:05.102 [info] Installing extension: vadimcn.vscode-lldb franneck94.c-cpp-runner
+2023-06-02 20:14:08.241 [info] Extension signature verification is not done: vadimcn.vscode-lldb
+2023-06-02 20:14:08.288 [info] Extracted extension to /home/agoy/.vscode-oss/extensions/.425bb07c-8d36-4bcf-b125-673f365cda84: vadimcn.vscode-lldb
+2023-06-02 20:14:08.296 [info] Renamed to /home/agoy/.vscode-oss/extensions/vadimcn.vscode-lldb-1.9.2-universal
+2023-06-02 20:14:08.299 [info] Extracting extension completed. vadimcn.vscode-lldb
+2023-06-02 20:14:14.984 [info] Extension signature verification is not done: franneck94.c-cpp-runner
+2023-06-02 20:14:15.063 [info] Extracted extension to /home/agoy/.vscode-oss/extensions/.4cbd3709-2614-4edf-9e6d-f4a3fa42a30f: franneck94.c-cpp-runner
+2023-06-02 20:14:15.066 [info] Renamed to /home/agoy/.vscode-oss/extensions/franneck94.c-cpp-runner-5.2.1-universal
+2023-06-02 20:14:15.068 [info] Extracting extension completed. franneck94.c-cpp-runner
+2023-06-02 20:14:15.076 [info] Extension installed successfully: vadimcn.vscode-lldb
+2023-06-02 20:14:15.076 [info] Extension installed successfully: franneck94.c-cpp-runner

@@ -1,0 +1,66 @@
+2023-06-02 20:14:51.889 [info] Test server listening.
+2023-06-02 20:14:51.889 [info] Python interpreter path: ./bin/python
+2023-06-02 20:14:51.933 [error] [
+  'Failed to activate a workspace, Class name = g, completed in 49ms, has a falsy return value, Arg 1: <Uri:/home/agoy/asd.c>, Return Value: undefined',
+  [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+  Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+   The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+  	at T (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:94:44801)
+  	at get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:116:26559)
+  	at w.activate (/home/agoy/.vscode-oss/extensions/ms-python.python-2023.8.0-universal/out/client/extension.js:2:800768)
+  	at /home/agoy/.vscode-oss/extensions/ms-python.python-2023.8.0-universal/out/client/extension.js:2:2386
+  	at Array.map (<anonymous>)
+  	at g.activateWorkspace (/home/agoy/.vscode-oss/extensions/ms-python.python-2023.8.0-universal/out/client/extension.js:2:2376)]
+]
+2023-06-02 20:14:51.933 [error] Failure during activation. [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at T (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:94:44801)
+	at get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:116:26559)
+	at w.activate (/home/agoy/.vscode-oss/extensions/ms-python.python-2023.8.0-universal/out/client/extension.js:2:800768)
+	at /home/agoy/.vscode-oss/extensions/ms-python.python-2023.8.0-universal/out/client/extension.js:2:2386
+	at Array.map (<anonymous>)
+	at g.activateWorkspace (/home/agoy/.vscode-oss/extensions/ms-python.python-2023.8.0-universal/out/client/extension.js:2:2376)]
+2023-06-02 20:14:51.933 [error] sendStartupTelemetry() failed. [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at T (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:94:44801)
+	at get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:116:26559)
+	at w.activate (/home/agoy/.vscode-oss/extensions/ms-python.python-2023.8.0-universal/out/client/extension.js:2:800768)
+	at /home/agoy/.vscode-oss/extensions/ms-python.python-2023.8.0-universal/out/client/extension.js:2:2386
+	at Array.map (<anonymous>)
+	at g.activateWorkspace (/home/agoy/.vscode-oss/extensions/ms-python.python-2023.8.0-universal/out/client/extension.js:2:2376)]
+2023-06-02 20:14:53.885 [info] Starting Jedi language server for .
+2023-06-02 20:16:20.455 [info] Python interpreter path: ./bin/python
+2023-06-02 20:16:20.509 [info] Test server listening.
+2023-06-02 20:16:20.575 [error] [
+  'Failed to activate a workspace, Class name = g, completed in 139ms, has a falsy return value, Arg 1: <Uri:/home/agoy/asd.c>, Return Value: undefined',
+  [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+  Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+   The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+  	at T (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:94:44801)
+  	at get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:116:26559)
+  	at w.activate (/home/agoy/.vscode-oss/extensions/ms-python.python-2023.8.0-universal/out/client/extension.js:2:800768)
+  	at /home/agoy/.vscode-oss/extensions/ms-python.python-2023.8.0-universal/out/client/extension.js:2:2386
+  	at Array.map (<anonymous>)
+  	at g.activateWorkspace (/home/agoy/.vscode-oss/extensions/ms-python.python-2023.8.0-universal/out/client/extension.js:2:2376)]
+]
+2023-06-02 20:16:20.575 [error] Failure during activation. [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at T (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:94:44801)
+	at get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:116:26559)
+	at w.activate (/home/agoy/.vscode-oss/extensions/ms-python.python-2023.8.0-universal/out/client/extension.js:2:800768)
+	at /home/agoy/.vscode-oss/extensions/ms-python.python-2023.8.0-universal/out/client/extension.js:2:2386
+	at Array.map (<anonymous>)
+	at g.activateWorkspace (/home/agoy/.vscode-oss/extensions/ms-python.python-2023.8.0-universal/out/client/extension.js:2:2376)]
+2023-06-02 20:16:20.575 [error] sendStartupTelemetry() failed. [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at T (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:94:44801)
+	at get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:116:26559)
+	at w.activate (/home/agoy/.vscode-oss/extensions/ms-python.python-2023.8.0-universal/out/client/extension.js:2:800768)
+	at /home/agoy/.vscode-oss/extensions/ms-python.python-2023.8.0-universal/out/client/extension.js:2:2386
+	at Array.map (<anonymous>)
+	at g.activateWorkspace (/home/agoy/.vscode-oss/extensions/ms-python.python-2023.8.0-universal/out/client/extension.js:2:2376)]
+2023-06-02 20:16:34.343 [info] Starting Jedi language server for .
